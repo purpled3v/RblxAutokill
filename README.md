@@ -23,6 +23,10 @@ Funtcions :
   <img src="https://user-images.githubusercontent.com/111908683/189500339-20f8d239-f6ea-40c3-aaa7-e670eb1456d2.png"></img>
   <img src="https://user-images.githubusercontent.com/111908683/189500370-e6ccd18b-0076-4d5a-8391-a10a13349ee2.png"></img>
   </div>
+  
+  <br>
+  <br>
+  <p>by purple developer </p>
 
 
 
