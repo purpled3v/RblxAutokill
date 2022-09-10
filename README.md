@@ -1,11 +1,11 @@
 <br>
 <h1 align="center">Simple Roblox Autokill ( by purple'dev#0104 )</h1>
 <br>
-```bash
+
 <h4 align = "center"> 
 <br>
 <br>
-  ```
+
 ```bash
 Funtcions : 
 
