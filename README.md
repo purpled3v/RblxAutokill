@@ -14,7 +14,7 @@ Funtcions :
     
     Note: If you use it in an obvious way, the game may kick you out of the game. Use it with awareness.    
 ```
-<h3 align="center">//*Made by purple'dev#0104 | https://github.com/purpled3v *//</h3>
+<h3 align="center">/*       Made by purple'dev#0104 | https://github.com/purpled3v        */</h3>
 
 <br>
 <h1 align="center">Photos</h1>
@@ -26,7 +26,7 @@ Funtcions :
   
   <br>
   <br>
-  <p>by purple developer </p>
+
 
 
 
