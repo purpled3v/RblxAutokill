@@ -1,7 +1,7 @@
 <br>
 <h1 align="center">Simple Roblox Autokill ( by purple'dev#0104 )</h1>
 <br>
-``` bash
+```bash
   <h4 align="center">Questo è un semplice script in Lua che ha la funzione di autokillare le persone, una dopo l' altra.
 Questo script è compatibile con molti dei famosi exploiter tra i quali JJsploit, krnl, Synapse e molti altri.
 Nota : Se lo usi in modo evidente, il gioco potrebbe espellerti dal gioco. Usalo con consapevolezza.</h4>
