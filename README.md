@@ -1,7 +1,3 @@
-# RblxAutokill
-autokill script for BIG Paintball Ita (and other similar games)
-
-
 <DOCTIPE=html>
 <html>
 <h1 text-align="center">Simple Roblox Autokill ( by purple'dev#0104 )</h1>
@@ -12,4 +8,10 @@ Nota : Se lo usi in modo evidente, il gioco potrebbe espellerti dal gioco. Usalo
 
 //*Made by purple'dev#0104 | https://github.com/purpled3v *//</h6>
 
+
+<h4 text-align="center">Photo</h4>
+<img text-align="center">img</img>
 </html>
+
+
+
